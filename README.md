@@ -209,7 +209,7 @@ bucket[i] → key1 → key2 → key3
 
 ---
 
-## ⚠️ Limitations & Bottlenecks
+##  Limitations & Bottlenecks
 
 ---
 
